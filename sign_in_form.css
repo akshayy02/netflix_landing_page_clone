@@ -1,0 +1,76 @@
+.container-fluid {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://assets.nflxext.com/ffe/siteui/vlv3/ce221d7a-8901-41d9-b726-3ea2efe3a650/2f69dcef-463f-44da-b3b9-662b65f33f82/IN-en-20230703-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+  height: 100vh;
+}
+.container {
+  background-color: rgba(0, 0, 0, 0.779);
+  width: 500px;
+  height: 650px;
+}
+.main {
+  margin-top: 130px;
+}
+.main h1 {
+  color: aliceblue;
+  padding-top: 50px;
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 400;
+  margin-left: 50px;
+}
+
+.form-control {
+  margin-top: -10px;
+  width: 330px;
+  height: 50px;
+  border: none;
+  border-style: none;
+  margin-left: 80px;
+  border: none;
+}
+#email {
+  margin-top: 30px;
+  background-color: rgb(88, 84, 79);
+  /* border-bottom: 2px solid red; */
+}
+#pass {
+  margin-top: 10px;
+  background-color: rgb(88, 84, 79);
+}
+#btn {
+  margin-top: 30px;
+  width: 330px;
+  margin-left: 80px;
+  height: 50px;
+}
+.form-check {
+  color: aliceblue;
+  margin-left: 80px;
+  font-family: sans-serif;
+  margin-top: 8px;
+  font-size: 13px;
+}
+.form-check span {
+  margin-left: 150px;
+}
+.dow h4 {
+  margin-top: 80px;
+  color: aliceblue;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: 400;
+  margin-left: 80px;
+}
+.dow h4 a {
+  border: none;
+  text-decoration: none;
+}
+.dow p {
+  margin-left: 80px;
+  font-size: 15px;
+  color: aliceblue;
+}
